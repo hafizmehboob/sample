@@ -16,4 +16,4 @@ $('#city-names').on('change', function () {
             }
         });
   });
-    });
+    }); 
